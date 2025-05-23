@@ -35,14 +35,6 @@ java [YourMainClass]
 
 _Replace `[YourMainFile]` and `[YourMainClass]` with actual file/class names._
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
-
-## License
-
-[Specify your license here, e.g., MIT, Apache 2.0, etc.]
-
 ## Author
 
 - [knah1d](https://github.com/knah1d)
